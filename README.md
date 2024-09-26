@@ -1,1 +1,1 @@
-# Hindi-English OCR and Keyword Search Web Application
+# OCR and Keyword Search Web Application
